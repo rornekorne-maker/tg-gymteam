@@ -1,0 +1,14 @@
+{
+  "BOT_TOKEN": "ВАШ_ТОКЕН_ОТ_BOTFATHER",
+  "INTERVALS_SECONDS": [
+    0,
+    3600,
+    18000,
+    1200,
+    0,
+    18000,
+    1800,
+    10800
+  ],
+  "TIMEZONE": "Europe/Moscow"
+}
